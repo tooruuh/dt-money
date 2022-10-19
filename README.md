@@ -1,10 +1,18 @@
-### ▪️ dtMoney
-
-============
+## 💻 dtMoney
 
 Projeto do curso da rocketseat onde criamos um dashboard de controle financeiro.
 
-Tecnologias Utilizadas: React com typeScript, HTML, CSS, Style-components, JavaScript, MirageJs para simular o backend.
+## Tecnologias Utilizadas:
+
+# ▪️ React com typeScript
+
+# ▪️ HTML
+
+# ▪️ CSS e Style-components
+
+# ▪️ JavaScript
+
+# ▪️ MirageJs para simular o backend.
 
 ## 🎲 Utilizando projeto
 
