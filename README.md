@@ -4,15 +4,15 @@ Projeto do curso da rocketseat onde criamos um dashboard de controle financeiro.
 
 ## Tecnologias Utilizadas:
 
-# ▪️ React com typeScript
+▪️ React com typeScript,
 
-# ▪️ HTML
+▪️ HTML,
 
-# ▪️ CSS e Style-components
+▪️ CSS e Style-components,
 
-# ▪️ JavaScript
+▪️ JavaScript,
 
-# ▪️ MirageJs para simular o backend.
+▪️ MirageJs para simular o backend.
 
 ## 🎲 Utilizando projeto
 
