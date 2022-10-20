@@ -18,8 +18,8 @@ Projeto do curso da rocketseat onde criamos um dashboard de controle financeiro.
 
 ### ▪️ Baixando projeto e instalando dependências
 
-Para utilizar o projeto basta fazer o fork do repositório em computador e ao baixar realizar o download das dependências do site com o comando: `yarn`
+Para utilizar o projeto basta fazer o fork do repositório em computador e ao baixar realizar o download das dependências do site com o comando: `js yarn`
 
 ### ▪️ Iniciando visualização do projeto
 
-Ao finalizar o download das dependências, inicie a visualização do projeto com o comando: `yarn start`
+Ao finalizar o download das dependências, inicie a visualização do projeto com o comando: `js yarn start`
